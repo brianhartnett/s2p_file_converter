@@ -25,7 +25,7 @@ EXAMPLE OF s2p_file_converter OUTPUT:
 ! Test temperature: -40C
 !----------------------------------------------------------------------------------------------------------------------
 [Version] 2.0
-# GHz S DB R 50
+! GHz S DB R 50
 [Number of Ports] 2
 [Two-Port Data Order] 21_12
 [Number of Frequencies] 201
